@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## WSL
+
+윈도우에서 리룩스 환경 설정 세팅 이후
+루비 온 레일즈를 세팅함.
+
+> 즉, 이 레포지토리는 윈도우 os 기반의 프로젝트임을 명시.
